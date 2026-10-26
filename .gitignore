@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+demo/speech-*.txt
+demo/speech-*.wav
+demo/speech.wav
+demo/my-*
+.env

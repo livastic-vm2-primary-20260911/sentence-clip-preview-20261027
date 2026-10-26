@@ -1,0 +1,45 @@
+{
+  "rights_confirmed": true,
+  "synthetic": true,
+  "duration": 20.31,
+  "clip_count": 2,
+  "min_seconds": 4,
+  "max_seconds": 9,
+  "formats": [
+    "vertical",
+    "square"
+  ],
+  "captions": true,
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 3.095,
+      "text": "A reliable clip keeps one complete idea."
+    },
+    {
+      "start": 3.095,
+      "end": 6.385,
+      "text": "Start with the question before giving the answer."
+    },
+    {
+      "start": 6.385,
+      "end": 9.325,
+      "text": "The fix is to cut at a sentence boundary."
+    },
+    {
+      "start": 9.325,
+      "end": 13.335,
+      "text": "Captions repeat the spoken words without inventing facts."
+    },
+    {
+      "start": 13.335,
+      "end": 16.665,
+      "text": "Real retention data must be labeled with its source."
+    },
+    {
+      "start": 16.665,
+      "end": 20.31,
+      "text": "Change only the requested clip and keep the rest intact."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:03,290
+Start with the question before
+giving the answer.
+
+2
+00:00:03,290 --> 00:00:06,230
+The fix is to cut at a
+sentence boundary.

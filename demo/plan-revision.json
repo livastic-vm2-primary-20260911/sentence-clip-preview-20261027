@@ -1,0 +1,59 @@
+{
+  "schema": "sentence-clip-preview/1",
+  "duration": 20.31,
+  "synthetic": true,
+  "formats": [
+    "vertical",
+    "square"
+  ],
+  "captions": true,
+  "retention_source": null,
+  "limitations": [
+    "Needs trustworthy complete-sentence timestamps; ASR and YouTube acquisition are not implemented.",
+    "Heuristic content ranking is not a learned semantic or virality model.",
+    "Preserves the full frame by padding; no face tracking or smart cropping.",
+    "Real video accuracy and unseen 60-minute acceptance scenarios are not yet validated."
+  ],
+  "clips": [
+    {
+      "id": "clip-01",
+      "start": 3.095,
+      "end": 9.325,
+      "selection_mode": "transcript-content-heuristic",
+      "reason": "No retention supplied. Transparent transcript heuristic selected this complete idea: Start with the question before giving the answer.",
+      "retention_peak": null,
+      "sentences": [
+        {
+          "start": 3.095,
+          "end": 6.385,
+          "text": "Start with the question before giving the answer."
+        },
+        {
+          "start": 6.385,
+          "end": 9.325,
+          "text": "The fix is to cut at a sentence boundary."
+        }
+      ]
+    },
+    {
+      "id": "clip-02",
+      "start": 6.385,
+      "end": 13.335,
+      "selection_mode": "transcript-content-heuristic",
+      "reason": "Buyer-style revision fixture: replace clip 02 with the two complete sentences about sentence boundaries and accurate captions.",
+      "retention_peak": null,
+      "sentences": [
+        {
+          "start": 6.385,
+          "end": 9.325,
+          "text": "The fix is to cut at a sentence boundary."
+        },
+        {
+          "start": 9.325,
+          "end": 13.335,
+          "text": "Captions repeat the spoken words without inventing facts."
+        }
+      ]
+    }
+  ]
+}

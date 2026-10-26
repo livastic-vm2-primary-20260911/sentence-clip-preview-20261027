@@ -1,0 +1,79 @@
+{
+  "synthetic_only": true,
+  "real_customer_validation": false,
+  "source_duration": 20.31,
+  "initial_render": {
+    "synthetic": true,
+    "source_sha256": "1aedb97302e1e58fe69e07572d1639609ca4715e772feffa65102e635887b7b2",
+    "rendered": [
+      {
+        "file": "clip-01-vertical.mp4",
+        "width": 360,
+        "height": 640,
+        "duration": 6.25,
+        "sha256": "872d7b3a0c50bc236cb1758b13bb271954360b65e8b5adf25d5167df2a29965c",
+        "reason": "No retention supplied. Transparent transcript heuristic selected this complete idea: Start with the question before giving the answer."
+      },
+      {
+        "file": "clip-01-square.mp4",
+        "width": 480,
+        "height": 480,
+        "duration": 6.25,
+        "sha256": "9f14baf33b762c301cfb091fd7f5ca13d92bc4871767b63decf59317de308749",
+        "reason": "No retention supplied. Transparent transcript heuristic selected this complete idea: Start with the question before giving the answer."
+      },
+      {
+        "file": "clip-02-vertical.mp4",
+        "width": 360,
+        "height": 640,
+        "duration": 6.975,
+        "sha256": "3d83eea9c22e5bdb698c55db6cc3e95ae759dd958e4c5cff2d4e858c4f767c04",
+        "reason": "No retention supplied. Transparent transcript heuristic selected this complete idea: Real retention data must be labeled with its source."
+      },
+      {
+        "file": "clip-02-square.mp4",
+        "width": 480,
+        "height": 480,
+        "duration": 6.975,
+        "sha256": "993c082631d57317a0adc4a8641b9536754575c2f35e885bacdfeb13af0a5be9",
+        "reason": "No retention supplied. Transparent transcript heuristic selected this complete idea: Real retention data must be labeled with its source."
+      }
+    ],
+    "preserved": []
+  },
+  "revision": {
+    "synthetic": true,
+    "source_sha256": "1aedb97302e1e58fe69e07572d1639609ca4715e772feffa65102e635887b7b2",
+    "rendered": [
+      {
+        "file": "clip-02-vertical.mp4",
+        "width": 360,
+        "height": 640,
+        "duration": 6.958333,
+        "sha256": "238a4cd0892584e6b09d87f16e8eb32cf570e577292fb5180db52f536b861e15",
+        "reason": "Buyer-style revision fixture: replace clip 02 with the two complete sentences about sentence boundaries and accurate captions."
+      },
+      {
+        "file": "clip-02-square.mp4",
+        "width": 480,
+        "height": 480,
+        "duration": 6.958333,
+        "sha256": "cac2d2bff1342816ebf52c9539a32d5e864c87a3187280c407241e1dc3362d02",
+        "reason": "Buyer-style revision fixture: replace clip 02 with the two complete sentences about sentence boundaries and accurate captions."
+      }
+    ],
+    "preserved": [
+      {
+        "file": "clip-01-vertical.mp4",
+        "sha256": "872d7b3a0c50bc236cb1758b13bb271954360b65e8b5adf25d5167df2a29965c"
+      },
+      {
+        "file": "clip-01-square.mp4",
+        "sha256": "9f14baf33b762c301cfb091fd7f5ca13d92bc4871767b63decf59317de308749"
+      }
+    ]
+  },
+  "unmodified_clip_hashes_verified": true,
+  "requested_clip_hashes_actually_changed": true,
+  "retention_fixture_source": "SYNTHETIC QA points, not real platform/viewer retention"
+}

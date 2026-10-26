@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,940
+The fix is to cut at a
+sentence boundary.
+
+2
+00:00:02,940 --> 00:00:06,950
+Captions repeat the spoken
+words without inventing facts.

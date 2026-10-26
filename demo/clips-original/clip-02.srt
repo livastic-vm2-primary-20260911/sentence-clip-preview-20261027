@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:03,330
+Real retention data must be
+labeled with its source.
+
+2
+00:00:03,330 --> 00:00:06,975
+Change only the requested clip
+and keep the rest intact.

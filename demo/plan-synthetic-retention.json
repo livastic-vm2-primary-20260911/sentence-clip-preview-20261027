@@ -1,0 +1,59 @@
+{
+  "schema": "sentence-clip-preview/1",
+  "duration": 20.31,
+  "synthetic": true,
+  "formats": [
+    "vertical",
+    "square"
+  ],
+  "captions": true,
+  "retention_source": "SYNTHETIC QA points, not real platform/viewer retention",
+  "limitations": [
+    "Needs trustworthy complete-sentence timestamps; ASR and YouTube acquisition are not implemented.",
+    "Heuristic content ranking is not a learned semantic or virality model.",
+    "Preserves the full frame by padding; no face tracking or smart cropping.",
+    "Real video accuracy and unseen 60-minute acceptance scenarios are not yet validated."
+  ],
+  "clips": [
+    {
+      "id": "clip-01",
+      "start": 3.095,
+      "end": 9.325,
+      "selection_mode": "retention",
+      "reason": "Source-labeled retention peak 0.990; contains: Start with the question before giving the answer.",
+      "retention_peak": 0.99,
+      "sentences": [
+        {
+          "start": 3.095,
+          "end": 6.385,
+          "text": "Start with the question before giving the answer."
+        },
+        {
+          "start": 6.385,
+          "end": 9.325,
+          "text": "The fix is to cut at a sentence boundary."
+        }
+      ]
+    },
+    {
+      "id": "clip-02",
+      "start": 13.335,
+      "end": 20.31,
+      "selection_mode": "retention",
+      "reason": "Source-labeled retention peak 0.990; contains: Real retention data must be labeled with its source.",
+      "retention_peak": 0.99,
+      "sentences": [
+        {
+          "start": 13.335,
+          "end": 16.665,
+          "text": "Real retention data must be labeled with its source."
+        },
+        {
+          "start": 16.665,
+          "end": 20.31,
+          "text": "Change only the requested clip and keep the rest intact."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+test_caption_markup_plain (test_clipper.PlannerTests.test_caption_markup_plain) ... ok
+test_caption_origin_and_text (test_clipper.PlannerTests.test_caption_origin_and_text) ... ok
+test_caption_rounding (test_clipper.PlannerTests.test_caption_rounding) ... ok
+test_dp_not_greedy (test_clipper.PlannerTests.test_dp_not_greedy) ... ok
+test_exact_count (test_clipper.PlannerTests.test_exact_count) ... ok
+test_fallback_honest (test_clipper.PlannerTests.test_fallback_honest) ... ok
+test_impossible_request_fails (test_clipper.PlannerTests.test_impossible_request_fails) ... ok
+test_input_not_mutated (test_clipper.PlannerTests.test_input_not_mutated) ... ok
+test_nonoverlap (test_clipper.PlannerTests.test_nonoverlap) ... ok
+test_reasons_quote_selected_text (test_clipper.PlannerTests.test_reasons_quote_selected_text) ... ok
+test_repeatable (test_clipper.PlannerTests.test_repeatable) ... ok
+test_retention_highest_selected (test_clipper.PlannerTests.test_retention_highest_selected) ... ok
+test_retention_is_explicit (test_clipper.PlannerTests.test_retention_is_explicit) ... ok
+test_sentence_boundaries (test_clipper.PlannerTests.test_sentence_boundaries) ... ok
+test_synthetic_label (test_clipper.PlannerTests.test_synthetic_label) ... ok
+test_bounds_reversed (test_clipper.ValidationTests.test_bounds_reversed) ... ok
+test_captions_wrong_type (test_clipper.ValidationTests.test_captions_wrong_type) ... ok
+test_count_bool (test_clipper.ValidationTests.test_count_bool) ... ok
+test_count_high (test_clipper.ValidationTests.test_count_high) ... ok
+test_count_zero (test_clipper.ValidationTests.test_count_zero) ... ok
+test_duration_bool (test_clipper.ValidationTests.test_duration_bool) ... ok
+test_duration_inf (test_clipper.ValidationTests.test_duration_inf) ... ok
+test_duration_long (test_clipper.ValidationTests.test_duration_long) ... ok
+test_duration_nan (test_clipper.ValidationTests.test_duration_nan) ... ok
+test_empty_retention_is_content (test_clipper.ValidationTests.test_empty_retention_is_content) ... ok
+test_empty_sentences (test_clipper.ValidationTests.test_empty_sentences) ... ok
+test_formats_bad_type (test_clipper.ValidationTests.test_formats_bad_type) ... ok
+test_formats_duplicate (test_clipper.ValidationTests.test_formats_duplicate) ... ok
+test_formats_empty (test_clipper.ValidationTests.test_formats_empty) ... ok
+test_formats_unknown (test_clipper.ValidationTests.test_formats_unknown) ... ok
+test_incomplete_sentence (test_clipper.ValidationTests.test_incomplete_sentence) ... ok
+test_missing_text (test_clipper.ValidationTests.test_missing_text) ... ok
+test_negative_time (test_clipper.ValidationTests.test_negative_time) ... ok
+test_outside_source (test_clipper.ValidationTests.test_outside_source) ... ok
+test_overlap (test_clipper.ValidationTests.test_overlap) ... ok
+test_retention_duplicate_time (test_clipper.ValidationTests.test_retention_duplicate_time) ... ok
+test_retention_invalid_value (test_clipper.ValidationTests.test_retention_invalid_value) ... ok
+test_retention_nan (test_clipper.ValidationTests.test_retention_nan) ... ok
+test_retention_outside (test_clipper.ValidationTests.test_retention_outside) ... ok
+test_retention_requires_source (test_clipper.ValidationTests.test_retention_requires_source) ... ok
+test_reversed_time (test_clipper.ValidationTests.test_reversed_time) ... ok
+test_rights_required (test_clipper.ValidationTests.test_rights_required) ... ok
+test_valid (test_clipper.ValidationTests.test_valid) ... ok
+test_wrong_manifest_type (test_clipper.ValidationTests.test_wrong_manifest_type) ... ok
+
+----------------------------------------------------------------------
+Ran 44 tests in 0.002s
+
+OK
